@@ -25,5 +25,3 @@ The data is created on the fly by appending the data.sql CTE before the individu
 ## Author Info
 
 - Website - [Don Data](https://dondata.ai)
-
-[Back To The Top](#read-me-template)
