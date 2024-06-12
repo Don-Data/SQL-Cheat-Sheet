@@ -18,7 +18,7 @@ This repository is a collection of SQL queries that show different aspects of th
 
 ## How To Use
 
-The data is created on the fly by appending the data.sql CTE before the individual queries. All other .sql files are intended to be individually appended after the data.sql query.
+The data is created on the fly by appending the data.sql CTE before the individual queries. All other .sql files are intended to be individually appended after the "0 data.sql" query.
 
 ---
 
